@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=">
         <link  rel="icon" href="images/icono.ico"/>
-        <title>Cinestudiar</title>
+        <title>Cinestudiar 2</title>
         <!-- Styles -->
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
         <link
